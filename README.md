@@ -1,2 +1,1 @@
-# ML
-machine learinng
+#Machine learinng basics to NLP
